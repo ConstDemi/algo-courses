@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Рабочий файл с кодом занятия, в репозиторий не идёт
+code.txt
